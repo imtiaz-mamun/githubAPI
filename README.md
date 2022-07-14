@@ -1,7 +1,7 @@
 # githubAPI
 A test application which shows the top 50 top most starred github repositories by searching with the "Android" keyword.
 
-#Features:
+# Features:
 ## - A list of repositories page where list of repositories showed.
 ## - List fetched from https://api.github.com/ api using "Android" as query keyword.
 ## - List can be sorted by either last update date time or star count.
